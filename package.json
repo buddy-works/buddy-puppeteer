@@ -1,12 +1,11 @@
 {
-  "name": "test",
+  "name": "puppeteer-screenshot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple script to take screenshots using Puppeteer",
+  "main": "test.js",
   "dependencies": {
-    "puppeteer": "^0.13.0"
+    "puppeteer": "^22.6.4"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "node test.js"
   },
